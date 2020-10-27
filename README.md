@@ -1,7 +1,11 @@
-# Prepping / integrating covid-19 data from USA Facts in python for making visualization of the data easier in Tableau
+# Utilization of python to prep and integrate data on the spread of covid-19 in the US to facilitate the creation of visualizations in Tableau more efficient
 
 Code creator: Han Huang <br />
 <br />
-Demonstation of application of the data prep: https://public.tableau.com/profile/hanhuang#!/vizhome/NewJerseyandCovid19UpdateBrief/NJDashboard-Fixed <br />
+Examples of use of the prepped data in Tableau can be seen on my Tableau public page: https://public.tableau.com/profile/hanhuang#!/vizhome/NewJerseyandCovid19UpdateBrief/NJDashboard-Fixed <br />
 <br />
-Project status: Work in progress. I plan to keep adding feeatures to the visualizations 
+Project status: Work in progress. I am planning to add additional visualizations at the state level and add county level data. 
+<br />
+Data refresh: Tableau Public does not allow automated data refresh. <br />
+<br />
+The focus of the Tableau visualizations is initially on New Jersey (the State where I live). Some of the data manipulations in this repo have been added to make creating vizualizations and pulling of specific data points more efficient in Tableau using Tableau's calculated field functionality and the pulling of individual data points into chart titles for inclusion in Tabl.  
