@@ -1,10 +1,10 @@
-# Utilization of python to prep and integrate data on the spread of covid-19 in the US to facilitate the creation of visualizations in Tableau more efficient
+# Utilization of python to prep and integrate data on the spread of covid-19
 
 Code creator: Han Huang <br />
 <br />
 Examples of use of the prepped data in Tableau can be seen on my Tableau public page: https://public.tableau.com/profile/hanhuang#!/vizhome/NewJerseyandCovid19UpdateBrief/NJDashboard-Fixed <br />
 <br />
-Project status: Work in progress. I am planning to add additional visualizations at the state level and add county level data. 
+Project status: Work in progress. I am planning to add additional visualizations at the state level and add county level data on my Tableau Public profile. <br />
 <br />
 Data refresh: Tableau Public does not allow automated data refresh. <br />
 <br />
